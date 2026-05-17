@@ -1,21 +1,12 @@
 <div align="center">
 
-# 👁️ U1JJulian 👁️
-### 「 Half Human • Half Developer 」
-
+# U1JJulian
 <img src="https://media.tenor.com/0TvU2o6H6V0AAAAC/kaneki-tokyo-ghoul.gif" width="700"/>
 
 </div>
 
----
 
-```bash
-> Initializing profile...
-> Loading kagune...
-> Status: Learning & Building Projects
-```
-
-# 🩸 Sobre mí
+# Sobre mí
 💻 Estudiante de Ingeniería en Sistemas Computacionales  
 🎮 Me gusta crear proyectos personalizados  
 🌑 Fan de Tokyo Ghoul y las interfaces oscuras  
@@ -58,9 +49,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 「 No soy el protagonista… pero sigo evolucionando 」
-
-</div>

@@ -36,16 +36,4 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)
 ![Redis](https://img.shields.io/badge/redis-darkred.svg?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
-# 📊 Estadísticas
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=U1JJulian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=U1JJulian&theme=tokyonight&hide_border=true)
-
-</div>
-
----

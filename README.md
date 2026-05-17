@@ -1,6 +1,6 @@
 <div align="center">
 
-# U1JJulian
+# JOSE JULIAN GONZALEZ MEDRANO
 <img src="https://media.tenor.com/0TvU2o6H6V0AAAAC/kaneki-tokyo-ghoul.gif" width="700"/>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
 
 # JOSE JULIAN GONZALEZ MEDRANO
-<img src="https://media.tenor.com/0TvU2o6H6V0AAAAC/kaneki-tokyo-ghoul.gif" width="700"/>
+<img src="[https://media.tenor.com/0TvU2o6H6V0AAAAC/kaneki-tokyo-ghoul.gif](https://gifs.alphacoders.com/gifs/view/189163)" width="700"/>
 
 </div>
 
